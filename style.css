@@ -1,20 +1,20 @@
 body {
-  background-color: #228B22; /* Warna hijau cerah */
-  font-family: Arial, sans-serif; /* Jenis huruf yang bersih dan mudah dibaca */
-  color: #191970; /* Warna teks utama (BIru Gelap) */
+  background-color: #228B22; /* Hijau */
+  font-family: Arial, sans-serif;
+  color: #191970; /* Biru gelap */
 }
 
 .kartu-profil {
   width: 300px;
-  margin: 50px auto; /* 50px jarak atas/bawah, auto menegahkan kiri/kanan */
+  margin: 50px auto;
   padding: 20px;
   background-color: white;
-  border-radius: 15px; /* Membuat studut menjadi melengkung */
-  box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Efek bayangan */
-  text-align: center; /* Menengahkan semua teks di dalam kartu */
+  border-radius: 15px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
 }
 
 .kartu-profil img {
-  widht: 150px;
-  border-radius: 25%; /* Trik untuk membuat gambar persegi menjadi lingkaran sempurna */
+  width: 150px;
+  border-radius: 50%; /* Membuat gambar bulat */
 }
